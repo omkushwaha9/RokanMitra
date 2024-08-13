@@ -2,9 +2,10 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className=' w-full px-16 py-8 font-["Neue Montreal"] flex justify-between items-center '>
-      <div className='title'>
-          <h1 className='text-white font-semibold'>
+    <div className=' w-full px-16 py-5 font-["Neue Montreal"] flex justify-between items-center '>
+      <div className='Title'>
+
+          <h1 className='font-bold text-3xl'>
           RokanMitra
           </h1>
       </div>
