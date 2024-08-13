@@ -1,13 +1,13 @@
 import React from 'react'
-import images from '../images/'
+import logop from '../images/logop.png'
 
 function Navbar() {
   return (
 
     <div className=' w-full px-16 py-5 font-["Neue Montreal"] flex justify-between items-center '>
       <div className='Title'>
-      <img src='/images'/>
-      <img src={images.logo.png} alt='logo'/>
+      <img className=' w-48'  src={logop} alt='Profile'/>
+        
       </div>
       <div className='links flex gap-10'>
         {["About", "Our Products", "Our Services", "Research", "Contact Us"].map((item, index) => (
