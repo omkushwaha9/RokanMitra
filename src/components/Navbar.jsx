@@ -4,7 +4,7 @@ import logop from '../images/logop.png'
 function Navbar() {
   return (
 
-    <div className=' fixed w-full px-16  font-["Neue Montreal"] flex justify-between items-center '>
+    <div className=' fixed w-full px-16 bg-white font-["Neue Montreal"] flex justify-between items-center '>
       <div className='Title'>
       <img className=' w-48 py-5'  src={logop} alt='Profile'/>
         
