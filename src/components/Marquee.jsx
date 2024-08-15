@@ -12,7 +12,7 @@ function Marquee() {
           animate={{ x: [1512, -982] }}
           transition={{ repeat: Infinity, ease: "linear", duration: 15 }}
           className='text-xl  uppercase pr-48 p-2 font-semibold'>
-          Rokan Mitra
+          Mutual Funds Investment
         </motion.h1>
         <motion.h1
           initial={{ x: "0" }}
