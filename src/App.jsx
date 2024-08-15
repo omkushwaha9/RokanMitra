@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './components/Navbar.jsx'
 import LandingPage from './components/LandingPage.jsx'
 import About from './components/Abour.jsx'
+import Marquee from './components/Marquee.jsx'
 
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
       <Navbar />
       <LandingPage />
       <About/>
-      <Marquee />
+      <Marquee/>
       
     </div>
   )
