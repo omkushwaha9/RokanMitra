@@ -10,23 +10,23 @@ function Marquee() {
         <motion.h1
           initial={{ x: "0" }}
           animate={{ x: [1512, -982] }}
-          transition={{ repeat: Infinity, ease: "linear", duration: 10 }}
-          className='text-xl  uppercase pr-60 p-2 font-semibold'>
+          transition={{ repeat: Infinity, ease: "linear", duration: 15 }}
+          className='text-xl  uppercase pr-48 p-2 font-semibold'>
           Rokan Mitra
         </motion.h1>
         <motion.h1
           initial={{ x: "0" }}
           animate={{ x: [1512, -982] }}
-          transition={{ repeat: Infinity, ease: "linear", duration: 10 }}
-          className='text-xl  uppercase pr-60 p-2 font-semibold'>
-          Rokan Mitra
+          transition={{ repeat: Infinity, ease: "linear", duration: 15 }}
+          className='text-xl  uppercase pr-48 p-2 font-semibold'>
+          Expert Financial Services
         </motion.h1>
         <motion.h1
           initial={{ x: "0" }}
           animate={{ x: [1512, -982] }}
-          transition={{ repeat: Infinity, ease: "linear", duration: 10 }}
-          className='text-xl  uppercase pr-60 p-2 font-semibold'>
-          Rokan Mitra
+          transition={{ repeat: Infinity, ease: "linear", duration: 15 }}
+          className='text-xl  uppercase pr-48 p-2 font-semibold'>
+          Investing Made Easy
         </motion.h1>
         
         
