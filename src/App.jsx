@@ -1,8 +1,9 @@
 import React from 'react'
 import Navbar from './components/Navbar.jsx'
 import LandingPage from './components/LandingPage.jsx'
-import About from './components/Abour.jsx'
+import About from './components/About.jsx'
 import Marquee from './components/Marquee.jsx'
+import ReviewSelection from './components/ReviewsSection.jsx'
 
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
       <LandingPage />
       <About/>
       <Marquee/>
+      <ReviewSelection/>
+
       
     </div>
   )

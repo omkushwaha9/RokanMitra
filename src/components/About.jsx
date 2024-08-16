@@ -17,7 +17,7 @@ function About() {
                         At MSFL, our 30+ years of experience means you get Expert Advice and personalized services to
                         reach your financial goals. We are trusted by 4lk + clients, 400 + Partners and 100 + branches
                         across India. </h1>
-                    <button className=' flex gap-10 items-center px-5 py-4 bg-[#737373] mt-7 rounded-full text-white  '>
+                    <button className=' flex gap-10 items-center px-5 py-4 bg-[#9ACEEB] mt-7 rounded-full text-white  '>
                         Read More
                         <div className='w-2 h-2 bg-zinc-100 rounded-full '></div>
                     </button>
