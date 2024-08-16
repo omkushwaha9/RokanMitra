@@ -28,17 +28,17 @@ function LandingPage() {
                     </div>
                 })}
             </div>
-            <div className='border-t-[1px] border-zinc-700 mt-44 flex justify-between items-center py-5 px-16 '>
-                <div className='px-4 py-2 border-[1px] border-zinc-700 font-light text-md uppercase rounded-full'>Become A partner</div>
+            <div className='border-t-[1px] text-sky-700  border-[#737373] mt-44 flex justify-between items-center py-5 px-16 '>
+                <div className='px-4 py-2 border-[1px] border-[#737373] font-medium text-md uppercase rounded-full'>Become A partner</div>
                 {["Investor Relations"].map((item, index) => (
-                    <p className='text-md font-light tracking-tight leading-none'>{item}</p>))}
-                <div className='px-4 py-2 border-[1px] border-zinc-700 font-light text-md uppercase rounded-full'>Login</div>
+                    <p className='text-md font-medium tracking-tight leading-none'>{item}</p>))}
+                <div className='px-4 py-2 border-[1px] border-[#737373] font-medium text-md uppercase rounded-full'>Login</div>
                 {["Policies"].map((item, index) => (
-                    <p className='text-md font-light tracking-tight leading-none'>{item}</p>))}
+                    <p className='text-md font-medium tracking-tight leading-none'>{item}</p>))}
                 <div className='start flex items-center gap-2'>
-                    <div className='px-4 py-2 border-[1px] border-zinc-700 font-light text-md uppercase rounded-full'>Open an Account</div>
+                    <div className='px-4 py-2 border-[1px] border-[#737373] font-medium text-md uppercase rounded-full'>Open an Account</div>
                     <div className='w-10 h-10 flex items-center justify-center rounded-full border-[1px] border-zinc-700'>
-                        <LuDownload />
+                        <LuDownload className='font-semibold text-lg' />
                     </div>
                 </div>
             </div>

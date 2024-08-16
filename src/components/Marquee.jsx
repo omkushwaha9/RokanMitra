@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 
 function Marquee() {
     return (
-        <div className='w-full  rounded-lg bg-zinc-950 text-white'>
+        <div className='w-full  rounded-lg bg-[#737373] text-white'>
             <div className='text flex'>
 
                 <motion.h1

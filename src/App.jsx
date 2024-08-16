@@ -8,7 +8,7 @@ import Marquee from './components/Marquee.jsx'
 function App() {
 
   return (
-    <div className='w-full min-h-screen bg-white text-zinc-950'>
+    <div className='w-full min-h-screen bg-white text-[#9ACEEB]'>
       <Navbar />
       <LandingPage />
       <About/>
