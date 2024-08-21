@@ -6,8 +6,8 @@ function Navbar() {
 
     <div className=' fixed w-full px-16 bg-white text-[#737373] font-["Neue Montreal"] flex justify-between items-center '>
       <div className='Title'>
-      <img className=' w-48 py-5'  src={logop} alt='Profile'/>
-        
+        <img className=' w-48 py-5' src={logop} alt='Profile' />
+
       </div>
       <div className='links flex gap-10 py-3'>
         {["About", "Our Products", "Our Services", "Research", "Contact Us"].map((item, index) => (
