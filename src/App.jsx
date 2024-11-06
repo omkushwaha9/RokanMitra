@@ -12,11 +12,11 @@ function App() {
     <div className='w-full min-h-screen bg-white text-[#9ACEEB]'>
       <Navbar />
       <LandingPage />
-      <About/>
-      <Marquee/>
-      <ReviewSelection/>
+      <About />
+      <Marquee />
+      <ReviewSelection />
 
-      
+
     </div>
   )
 }

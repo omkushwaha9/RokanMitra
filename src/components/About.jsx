@@ -23,7 +23,7 @@ function About() {
                     </button>
                 </div>
                 <div className='w-1/2 h-[50vh] mt-10 rounded-xl bg-[#9ACEEB]'>
-                   
+
                 </div>
             </div>
         </div>

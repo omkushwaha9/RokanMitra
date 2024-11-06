@@ -23,7 +23,7 @@ function ReviewSelection() {
                             <h1 className='absolute text-[#CDEA68] flex overflow-hidden left-full -translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] leading-none tracking-tighter text-8xl'>
                             </h1>
                         </div>
-                    </div> 
+                    </div>
                     <div className='cardcontainer relative w-1/4 rounded-xl h-[55vh] bg-zinc-300 '>
                         <div className=' rounded-lg w-full h-full '>
                             <h1 className='absolute text-[#CDEA68] flex overflow-hidden left-full -translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] leading-none tracking-tighter text-8xl'>
@@ -36,7 +36,7 @@ function ReviewSelection() {
                             <h1 className='absolute text-[#CDEA68] flex overflow-hidden left-full -translate-x-1/2 top-1/2 -translate-y-1/2 z-[9] leading-none tracking-tighter text-8xl'>
                             </h1>
                         </div>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </div>
